@@ -17,6 +17,7 @@ public class TestScanner
     {
         // initialise instance variables
         x = 0;
+        int y = 10;
     }
 
     /**
